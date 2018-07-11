@@ -1,4 +1,4 @@
-A fork of https://github.com/magnific0/wondershaper that add support to lower the bandwidth to absolute possible minimum to simulate network connectivity problems.
+A fork of https://github.com/magnific0/wondershaper that adds support to lowering the bandwidth to absolute possible minimum to simulate network connectivity problems.
 =================================================================================================================================
 
 The Wonder Shaper 1.4
